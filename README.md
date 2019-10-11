@@ -1,4 +1,4 @@
-# belajar_vuejs
+# Cara Menggunakannya
 
 ## Project setup
 ```
